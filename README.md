@@ -14,3 +14,6 @@ Este sitio está diseñado como una tienda virtual sencilla y funcional, ideal p
 - 📱 Diseño adaptable (responsive) para móviles y escritorio.  
 - 🌐 Preparado para publicación en **GitHub Pages**.  
 
+enlace https://tienda-tnes.vercel.app/
+
+
